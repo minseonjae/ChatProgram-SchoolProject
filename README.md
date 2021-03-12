@@ -1,3 +1,3 @@
 # ChatProgram-SchoolProject
 
-대학교 자바 기말 과제
+대학교 자바 프로그래밍 기말 과제
